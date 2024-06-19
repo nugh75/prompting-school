@@ -1,5 +1,5 @@
 # prompting-school
-prompting for school
+Prompting for school
 
 Questo progetto ha come scopo quello di creare una guida riguardante il prompting per l'insegnamento.
 
